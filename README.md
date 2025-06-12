@@ -7,6 +7,9 @@ A suite of specialized MCP servers that help you get the most out of AWS, wherev
 [![Codecov](https://img.shields.io/codecov/c/github/awslabs/mcp)](https://app.codecov.io/gh/awslabs/mcp)
 [![OSSF-Scorecard Score](https://img.shields.io/ossf-scorecard/github.com/awslabs/mcp)](https://scorecard.dev/viewer/?uri=github.com/awslabs/mcp)
 
+## Docker Images
+[![tf-mcp](https://github.com/vibecoding-platform/aws-mcp/actions/workflows/docker-publish-tf-mcp.yml/badge.svg)](https://github.com/vibecoding-platform/aws-mcp/actions/workflows/docker-publish-tf-mcp.yml)
+
 ## Table of Contents
 
 - [AWS MCP Servers](#aws-mcp-servers)
